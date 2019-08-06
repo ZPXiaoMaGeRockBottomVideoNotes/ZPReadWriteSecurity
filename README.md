@@ -1,0 +1,2 @@
+# ZPReadWriteSecurity
+本Demo主要介绍了读写安全的原则以及在iOS中实现读写安全的两种方案。
